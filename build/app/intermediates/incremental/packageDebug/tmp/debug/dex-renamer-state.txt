@@ -1,0 +1,4 @@
+#Sat Jun 10 12:41:51 BDT 2023
+base.0=C\:\\Users\\DELL\\Downloads\\flutter-course-source-code-main\\flutter-course-source-code-main\\52 ecom-21\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
